@@ -17,3 +17,7 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+stu_env/
+__pycache__/
+*.sqlite3
+
