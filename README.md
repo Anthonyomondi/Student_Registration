@@ -6,8 +6,7 @@
 
 ## Technlogies
 
- Django==3.2,
- django-crispy-forms==1.11.2,
+ Django,
  bootstrap4,
  Database - PostgreSQL
 
