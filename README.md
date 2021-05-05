@@ -6,7 +6,7 @@
 
 ## Technlogies
 
- Django,
+ Django 3.2,
  bootstrap4,
  Database - PostgreSQL
 
