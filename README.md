@@ -2,11 +2,11 @@
 
 ## Introduction
 
->Python Django project for implementing CRUD(Create, Retrieve, Update, Delete)  operations
+>Python Django project for implementing CRUD(Create, Retrieve, Update, Delete) functionality.
 
 ## Technlogies
 
- Django,
+ Django 3.2,
  bootstrap4,
  Database - PostgreSQL
 
