@@ -2,7 +2,7 @@
 
 ## Introduction
 
->Python Django project for implementing CRUD(Create, Retrieve, Update, Delete)  operations
+>Python Django project for implementing CRUD(Create, Retrieve, Update, Delete) functionality.
 
 ## Technlogies
 
